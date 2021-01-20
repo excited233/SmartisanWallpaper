@@ -1,9 +1,9 @@
 {
 "updateTime":"2020.01.20",
-"newVersionCode":"1",
-"newVersionName":"1.0",
+"newVersionCode":"2",
+"newVersionName":"1.0.1",
 "minVersionCode":"1",
-"information":"首个版本",
-"content":"首个版本",
-"url":"https://too-young.lanzous.com/iV5tbklccid"
+"information":"本次更新包含质量更新。",
+"content":"<b>修复 导航栏沉浸切换异常的问题<br>优化 导航栏沉浸开启后部分控件的位置<br>优化 Android 5设备支持状态栏沉浸<br>优化 浏览页菜单更易滑出",
+"url":"https://too-young.lanzous.com/i1RaSklix2j"
 }
