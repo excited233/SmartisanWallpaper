@@ -1,9 +1,9 @@
 {
-"updateTime":"2020.01.21",
-"newVersionCode":"4",
-"newVersionName":"1.0.3",
+"updateTime":"2020.01.22",
+"newVersionCode":"5",
+"newVersionName":"1.0.4",
 "minVersionCode":"1",
 "information":"本次更新包含质量更新。",
-"content":"<b>注意：1.0更新至1.0.1，请点击「分享给朋友」，扫描弹出的二维码进行更新<br>修复 1.0.2加载图片失败的问题<br>修复 浏览页返回按钮无效的问题<br>修复 加载新内容时图片闪动的问题<br>优化 更新按钮红点提示<br>优化 加载流畅度",
-"url":"https://too-young.lanzous.com/ifORAko2hud"
+"content":"<b>修复 部分设备设置壁纸或下载失败的问题",
+"url":"https://too-young.lanzous.com/ihvKWkocsba"
 }
